@@ -1,0 +1,32 @@
+{
+  "books": [
+    {
+      "title": "Origins",
+      "author": "Dan Brown",
+      "genre": "Medical",
+      "summary": "",
+      "id": 1
+    },
+    {
+      "title": "Crisis",
+      "author": "Robin Cook",
+      "genre": "Mystery thriller",
+      "summary": "The terrifying story of a doctor who is the victim of a medical malpractice",
+      "id": 2
+    },
+    {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Drama",
+      "summary": "Magical story of Santiago, an shepard boy who years to travel ",
+      "id": 3
+    },
+    {
+      "title": "Harry Potter",
+      "author": "J.K Rowling",
+      "genre": "Fantasy",
+      "summary": "A young wizard who discovers his magical on his eleventh birthday",
+      "id": 4
+    }
+  ]
+}
